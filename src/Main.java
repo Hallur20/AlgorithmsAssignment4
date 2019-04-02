@@ -1,4 +1,6 @@
 
+import edu.princeton.cs.algs4.In;
+import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
 /*
@@ -18,7 +20,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        StdOut.println("Hello World");
+        In in = new In(args[0]);
+        StdOut.println(in.readAll());
     }
     
 }
