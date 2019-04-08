@@ -7,11 +7,11 @@ public class GraphDFS
     {
         adjLists = new Vertex[airport.length];
 
+
         for (int v = 1; v < airport.length; v++)
         {
             Vertex vertexObject = new Vertex(airport[v].split(";")[0], null);
             adjLists[v] = vertexObject;
-
         }
 
         for (int v = 1; v < lines.length; v++)
