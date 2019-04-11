@@ -32,4 +32,8 @@
 <p>The way we make the algorithms work, is that we do alot of searching with for-loops through the string array that splits a semicolumn from the file. We have also been using the "queue" system from the book, which makes us able to enqueue/dequeue (you can say they have to do with inserting and deleting) the nodes we wish to do something with. </p>
   
   <p>Mostly the inputs required are a starting-point, end-point and then the actual string array. We believe that there were room for improvements (in areas such as making a used list larger to improve memory) and therefore the complexities go from <strong>O=(n)</strong> in depth/breadth search, to <strong>O=log(n)</strong> in dijkstra/minimum spanningtree.</p>
+  
+  
+  <h1>any purpose of a matrix (2d array) use for task 1, and what would be the byte size ?</h1>
+  <p>here we are quite unsure of the answer, but after having a discussion we settled on that we don't see the purpose of using it, since the file contains a large list of airports, but no "sub airports" as for example more airports than only the one that is mentioned in portugal. Therefore we think that the byte size would be unnessesarely larger, that what it would originally be</p>
 
