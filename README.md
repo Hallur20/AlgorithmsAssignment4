@@ -21,6 +21,8 @@
 
 <h1>What the main class contains <g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji></h1>
 
-<p>The main class contain the code to run the 3 diffrent algorthms with the needed files from the assignemnt.</p>
+<p>The main class contain the code to run the 3 diffrent algorthms (DepthFirstSearch, BreadthFirstSearch, Dijkstra with distance & time) with the needed files from the assignemnt.</p>
 
-<p>To run one of the allgorthm all you need after doing the steps in the "Setup" section, is just to comment out the algorthm you want to see then run the main.</p>
+<p>To run one of the algorithms all you need after doing the steps in the "Setup" section, is just to comment out the algorthm you want to see then run the main.</p>
+
+<p>The main does not contain the code to rune the Minimum spanning tree algorithms becaouse we did not make it work sadly... </p>
