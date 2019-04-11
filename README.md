@@ -19,7 +19,7 @@
 
 <p>After adding the algs4 jar file build the project then go to the <a href="https://github.com/Hallur20/AlgorithmsAssignment4/blob/master/src/Main.java">main class.</a></p>
 
-<h1>What the main class contains</h1>
+<h1>What the main class contains <g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji></h1>
 
 <p>The main class contain the code to run the 3 diffrent algorthms with the needed files from the assignemnt.</p>
 
