@@ -15,7 +15,7 @@
 
 <p>1-clone the project</p>
 
-<p>2-We use algs4 so you need to add the algs4 jar file to the project which you can find her <a href="https://algs4.cs.princeton.edu/code/algs4">.jar"algs4.</a></p>
+<p>2-We use algs4 so you need to add the algs4 jar file to the project which you can find her <a href="https://algs4.cs.princeton.edu/code/algs4">jar"algs4.</a></p>
 
 <p>After adding the algs4 jar file build the project then go to the <a href="https://github.com/Hallur20/AlgorithmsAssignment4/blob/master/src/Main.java">main class.</a></p>
 
