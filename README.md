@@ -26,3 +26,7 @@
 <p>To run one of the algorithms all you need after doing the steps in the "Setup" section, is just to comment out the algorthm you want to see then run the main.</p>
 
 <p>The main does not contain the code to run the "Minimum spanning tree" algorithms becaouse we did not manage to make it work sadly... </p>
+
+Data Structure:
+
+The way we make the algorithms work, is that we do alot of searching with for-loops through the string array that splits a semicolumn from the file. We have also been using the "queue" system from the book, which makes us able to enqueue/dequeue (you can say they have to do with inserting and deleting) the nodes we wish to do something with. Mostly the inputs required are a starting-point, end-point and then the actual string array. We believe that there were room for improvements (in areas such as making a used list larger to improve memory) and therefore the complexities go from O=(n) in depth/breadth search, to o=log(n) in dijkstra/minimum spanningtree.
