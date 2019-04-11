@@ -25,4 +25,4 @@
 
 <p>To run one of the algorithms all you need after doing the steps in the "Setup" section, is just to comment out the algorthm you want to see then run the main.</p>
 
-<p>The main does not contain the code to rune the Minimum spanning tree algorithms becaouse we did not make it work sadly... </p>
+<p>The main does not contain the code to run the "Minimum spanning tree" algorithms becaouse we did not manage to make it work sadly... </p>
