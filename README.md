@@ -27,7 +27,7 @@
 
 <p>The main does not contain the code to run the "Minimum spanning tree" algorithms becaouse we did not manage to make it work sadly... </p>
 
-<h1>Data Structure</h1>
+<h1>Data Structure <g-emoji class="g-emoji" alias="chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b9.png">💹</g-emoji></h1>
 
 <p>The way we make the algorithms work, is that we do alot of searching with for-loops through the string array that splits a semicolumn from the file. We have also been using the "queue" system from the book, which makes us able to enqueue/dequeue (you can say they have to do with inserting and deleting) the nodes we wish to do something with. </p>
   
